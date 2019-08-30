@@ -11,4 +11,5 @@
 	<img src="img/cost.png">
 
 - solution
+
 	<img src="img/solution.png">
